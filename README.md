@@ -16,6 +16,20 @@
   + Apache tomcat 9.0   
 + Dev tool
    + Eclipse
-   + Sql developer
+   + Sql developer   
++ Front-End
+   + HTML5
+   + CSS
+   + JavaScript
+   + JQuery
+   + Ajax
++ Back-End
+   + JSP
+   + Spring
+   + MyBatis   
+* * *   
+## 개발기간   
+2020.08.11 ~ 2020.10.11   
+인원 : 6
 
 
